@@ -2,18 +2,18 @@
 
 </a>
 <a href="https://www.linkedin.com/in/gloria-huawei-wang/">
-  <img align="right" alt="Gloria's LinkedIn" width="32px" src="https://raw.githubusercontent.com/gloriaawang/gloriaawangwang/main/linkedin.png" />
+  <img align="right" alt="Gloria's LinkedIn" width="32px" src="linkedin.png" />
 </a>
 <a href="mailto: glw30@pitt.edu">
-  <img align="right" alt="Gloria's Email" width="32px" src="https://raw.githubusercontent.com/gloriaawang/gloriaawang/main/mail.png" />
+  <img align="right" alt="Gloria's Email" width="32px" src="mail.png" />
 </a>
 
 <img src="https://raw.githubusercontent.com/gloriaawang/gloriaawang/main/wave.gif" height="30px"> Hi, I’m Gloria Wang!
 ===============	
   
-I'm a **Computational Biology** student pursuing a career in Biotech at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
+I'm a **Computational Biology** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions in the Biotech industry starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
 
-I'm super passionate about using technology, problem-solving, and creativity to explore the intersection between human health and technology. Currently, I'm interested in health accessibility, data analytics/visualization, education, and community engagement.
+I'm super passionate about using problem-solving and creativity to explore the intersection between human health and technology. Currently, I'm interested in health accessibility, data analytics/visualization, education, and community engagement.
 - 👔 Currently working as a SWE @ <ins>NimbleRx</ins>, previously interned as a SWE @ <ins>StratumAI</ins>, <ins>Super</ins> and <ins>Cloudspark Labs</ins>
 - 🛠 Building tech for social good @ <ins>UW Blueprint</ins>, previously building a formula-style race car @ <ins>UW Formula Electric</ins>
 
