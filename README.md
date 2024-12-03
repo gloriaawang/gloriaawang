@@ -65,10 +65,10 @@ Specialized in computational techniques for genomic research and machine learnin
 
 🎓 **Academic Achievements**
 
-B.S. in Computational Biology, University of Pittsburgh (Expected Apr '25)
-GPA: 3.79, Dean's List each semester
-Completed Minors in Economics & Chemistry, along with an Honors Global Health Certificate
-"Excellent Researcher" Award @ UCLA Bruins-in-Genomics Program
-Presented @ Pitt Undergraduate Research and Creative Expression Fair
-Mural showcased @ 2nd Annual 'Envisioning A Just Pittsburgh' Call for Diverse Art
-Honors Outside the Classroom Curriculum Society
+- B.S. in Computational Biology, University of Pittsburgh (Expected Apr '25)
+- GPA: 3.79, Dean's List each semester
+- Completed Minors in Economics & Chemistry, along with an Honors Global Health Certificate
+- "Excellent Researcher" Award @ UCLA Bruins-in-Genomics Program
+- Presented @ Pitt Undergraduate Research and Creative Expression Fair
+- Mural showcased @ 'Envisioning A Just Pittsburgh' Call for Diverse Art
+- Honors Outside the Classroom Curriculum Society
