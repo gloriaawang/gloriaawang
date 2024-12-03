@@ -8,72 +8,67 @@
   <img align="right" alt="Gloria's Email" width="32px" src="mail.png" />
 </a>
 
-<img src="https://raw.githubusercontent.com/gloriaawang/gloriaawang/main/wave.gif" height="30px"> Hi, I’m Gloria Wang!
+<img src="/wave.gif" height="30px"> Hi, I’m Gloria Wang!
 ===============	
   
-I'm a **Computational Biology** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions in the Biotech industry starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
+I'm a **Computational Biology** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions in the Biotech Industry starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
 
 I'm super passionate about using problem-solving and creativity to explore the intersection between human health and technology. Currently, I'm interested in health accessibility, data analytics/visualization, education, and community engagement.
-- 👔 Currently working as a SWE @ <ins>NimbleRx</ins>, previously interned as a SWE @ <ins>StratumAI</ins>, <ins>Super</ins> and <ins>Cloudspark Labs</ins>
-- 🛠 Building tech for social good @ <ins>UW Blueprint</ins>, previously building a formula-style race car @ <ins>UW Formula Electric</ins>
 
-## 🧑🏻‍💻 Competitive Programming
+👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, University of Pittsburgh School of Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA funded by an NSF grant & competitive REU</ins> and worked as a Teaching Assistant @ <ins>University of Pittsburgh Department of Biological Sciences</ins>
+🛠 Building tech for scientific research, specializing in RNA sequencing analysis, bioinformatics, and computational biology
+🎨 Actively engaging in science communication @ <ins>Carnegie Science Center</ins> and leading student organizations @ <ins>University of Pittsburgh</ins>
+🧑🏻‍💻 **Bioinformatics & Computational Skills**
+My passion for computational biology combines advanced computer programming and biological research, where I leverage advanced tools and techniques for data analysis and visualization.
+<details> <summary><i> &nbsp;Take a look at some of my bioinformatics experiences 👀</i> </summary> <br />
 
-- My passion for coding began with competitive programming, where I learned all about algorithms, data structures, and the key to writing efficient code quickly
-  
-<details>
-  <summary><i> &nbsp;Take a look at some of my competitive programming experiences 👀</i> </summary>
-
-  <br />
-  <p>
-    <a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=default_repocard"/>
-    </a>
-    <a href="https://github.com/braydonwang/Computer-Science-Club">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Computer-Science-Club&theme=default_repocard"/>
-    </a>
-  </p>
 </details>
+🧱 Research & Science Communication
 
-## 🧱 Personal Projects
-
-- As a life-long learner with an interest in using technology to solve real world problems, I've made many personal and collaborative projects that seek to impact the world in some way, while adding new tools/tech under my belt
+As a computational biology researcher and science communicator, I work to advance research while making science accessible to the public
 
 <details>
-  <summary> <i> &nbsp;Browse through my collection of personal and collaborative projects 🌐 </i> </summary>
-  
+  <summary> <i> &nbsp;Browse through my research and outreach work 🌐 </i> </summary>
   <br />
-  <p>
-    <a href="https://github.com/braydonwang/Hidden-Gems">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Hidden-Gems&theme=default_repocard"/>
-    </a>
-    <a href="https://github.com/braydonwang/Activio-App">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Activio-App&theme=default_repocard"/>
-    </a>
-  </p>
+Research Projects
+
+Science Communication
+
+
 </details>
+🤖 Technical Skills & Tools
+Proficient in multiple programming languages and bioinformatics tools for comprehensive data analysis
+Specialized in computational techniques for genomic research and machine learning applications
+<details> <summary> <i> &nbsp;Search through my technical skills 👾</i> </summary> <br />
 
-## 🤖 Machine Learning
+  - Languages: Java, Python, R, SQL, Unix (Linux)
 
-- My curiosity for ML began when I attended a bootcamp hosted by Google, which introduced me to the world of NLP
-- My hopes in pursuing an AI specialization is to learn more about the limitless capabilities of AI/ML and apply them to my work
-  
-<details>
-  <summary> <i> &nbsp;Search through my relevant experiences in ML 👾</i> </summary>
-    
-  <br />
-  <p>
-    <a href="https://github.com/braydonwang/Malaria-Cell-Detection-Model">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Malaria-Cell-Detection-Model&theme=default_repocard"/>
-    </a>
-    <a href="https://github.com/braydonwang/MachineLearningBootcamp2021">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Natural-Language-Processing-Assignments&theme=default_repocard"/>
-    </a>
-  </p>
+  - Bioinformatics Tools: BLAST, FASTQ, GeneMark, HHPred, Illumina, Lambda
+
+  - Data Science: Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, Statsmodels
+
+  - Development: GitHub, PyCharm, Visual Studio
 </details>
+📊 Leadership & Involvement
 
-## 📊 Github Stats
+**Events Coordinator @ Chinese American Student Association**
+- Administering activities focused on Chinese-American advocacy and cultural understanding
+- Managing technical services, business contracts, and an Events Committee
 
-<a href="https://github.com/braydonwang/braydonwang">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braydonwang&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=jupyter%20notebook,cmake,html,css,makefile,shell,procfile" />
-</a>
+**Education Chair @ Delta Epsilon Mu**
+- Scheduling guest speaker talks, professional development workshops, and DEI initiatives
+- Mentoring underclassmen on networking skills and event planning
+
+**Ambassador @ Frederick Honor's College**
+- Representing the Honors College at university open houses
+- Guiding prospective students through programs and opportunities
+
+🎓 **Academic Achievements**
+
+B.S. in Computational Biology, University of Pittsburgh (Expected Apr '25)
+GPA: 3.79, Dean's List each semester
+Completed Minors in Economics & Chemistry, along with an Honors Global Health Certificate
+"Excellent Researcher" Award @ UCLA Bruins-in-Genomics Program
+Presented @ Pitt Undergraduate Research and Creative Expression Fair
+Mural showcased @ 2nd Annual 'Envisioning A Just Pittsburgh' Call for Diverse Art
+Honors Outside the Classroom Curriculum Society
