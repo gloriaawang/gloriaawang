@@ -63,8 +63,11 @@ As a computational biology researcher and science communicator, I work to advanc
 
 </details>
 🤖 Technical Skills & Tools
+
 Proficient in multiple programming languages and bioinformatics tools for comprehensive data analysis
+
 Specialized in computational techniques for genomic research and machine learning applications
+
 <details> <summary> <i> &nbsp;Search through my technical skills 👾</i> </summary> <br />
 
   - Languages: Java, Python, R, SQL, Unix (Linux)
