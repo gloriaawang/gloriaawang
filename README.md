@@ -25,6 +25,18 @@ I'm super passionate about using problem-solving and creativity to explore the i
 
 My passion for computational biology combines advanced computer programming and biological research, where I leverage advanced tools and techniques for data analysis and visualization
 <details> <summary><i> &nbsp;Take a look at some of my bioinformatics experiences 👀</i> </summary> <br />
+<br />
+<p style="display: flex; justify-content: space-between; gap: 10px;">
+  <a href="https://github.com/gloriaawang/Chromatin-Analysis-of-Cancer-vs-Non-Cancer-Cell-Lines" style="width: 33%;">
+    <img align="center" width="32%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Chromatin-Analysis-of-Cancer-vs-Non-Cancer-Cell-Lines&theme=default_repocard"/>
+  </a>
+  <a href="https://github.com/gloriaawang/COVID-19-Lung-Biopsy-RNA-seq-Analysis" style="width: 33%;">
+    <img align="center" width="32%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=COVID-19-Lung-Biopsy-RNA-seq-Analysis&theme=default_repocard"/>
+  </a>
+  <a href="https://github.com/gloriaawang/Protein-Sequence-Analysis" style="width: 33%;">
+    <img align="center" width="32%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Protein-Sequence-Analysis&theme=default_repocard"/>
+  </a>
+</p>
 
 </details>
 🧱 Research & Science Communication
@@ -32,11 +44,13 @@ My passion for computational biology combines advanced computer programming and 
 As a computational biology researcher and science communicator, I work to advance research while making science accessible to the public
 
 <details>
-  <summary> <i> &nbsp;Browse through my research and outreach work 🌐 </i> </summary>
+  <summary> <i> &nbsp;See my most recent research updates 🌐 </i> </summary>
   <br />
-Research Projects
-
-Science Communication
+<p>
+  <a href="https://github.com/gloriaawang/Peri-implantitis-GWAS">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Peri-implantitis-GWAS&theme=default_repocard"/>
+  </a>
+</p>
 
 
 </details>
