@@ -81,7 +81,7 @@ Specialized in computational techniques for genomic research and machine learnin
 
 **Events Coordinator @ Chinese American Student Association**
 - Administering activities focused on Chinese-American advocacy and cultural understanding
-- Managing technical services, business contracts, and an Events Committee
+- Managing technical services, event itineraries, and an Events Committee
 
 **Education Chair @ Delta Epsilon Mu**
 - Scheduling guest speaker talks, professional development workshops, and DEI initiatives
