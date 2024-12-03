@@ -100,6 +100,7 @@ Specialized in computational techniques for genomic research and machine learnin
 - Presented @ Pitt Undergraduate Research and Creative Expression Fair
 - Mural showcased @ 'Envisioning A Just Pittsburgh' Call for Diverse Art
 - Honors Outside the Classroom Curriculum Society
+- Global Health Case Competition
 
 ## 📊 Github Stats
 
