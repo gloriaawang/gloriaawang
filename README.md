@@ -15,7 +15,7 @@ I'm a **Computational Biology** student at the **University of Pittsburgh Freder
 
 I'm super passionate about using problem-solving and creativity to explore the intersection between human health, economics, and technology. Currently, I'm broadly interested in health accessibility, data analytics/visualization, education, and community engagement.
 
-👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, University of Pittsburgh School of Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA</ins> funded by an NSF grant & REU, and worked as a Teaching Assistant @ <ins>University of Pittsburgh Department of Biological Sciences</ins>
+👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, Pitt Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA</ins> funded by an NSF grant & REU, and worked as a Teaching Assistant @ <ins> Pitt's Department of Biological Sciences</ins>
 
 🛠 Building tech for scientific research, specializing in bioinformatics while integrating economic analysis and consulting
 
