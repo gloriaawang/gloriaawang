@@ -8,7 +8,7 @@
   <img align="right" alt="Gloria's Email" width="32px" src="email.png" />
 </a>
 
-<img src="/wave.gif" height="30px"> Hi, I’m Gloria Wang!
+<img src="https://raw.githubusercontent.com/gloriaawang/gloriaawang/main/wave.gif" height="30px"> Hi, I’m Gloria Wang!
 ===============	
   
 I'm a **Computational Biology** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions in the Biotech Industry starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
@@ -21,11 +21,13 @@ I'm super passionate about using problem-solving and creativity to explore the i
 
 🎨 Actively engaging in science communication @ <ins>Carnegie Science Center (CSC)</ins> and leading student organizations @ <ins>University of Pittsburgh</ins>
 
+🚀 Pursuing biotech opportunities where I can leverage my analytical skillset as a data-driven software developer or consultant, combining computational/economic expertise with biological insights to drive innovation in cross-functional teams
+
 ---
 
 🧑🏻‍💻 Bioinformatics & Computational Skills
 
-My passion for computational biology combines advanced computer programming and biological research, where I leverage advanced tools and techniques for data analysis and visualization
+My background in computational biology combines advanced computer programming and biological research, where I leverage advanced tools and techniques for data analysis and visualization
 <details> <summary><i> &nbsp;Take a look at some of my bioinformatics experiences 👀</i> </summary> <br />
 <br />
 <p style="display: flex; justify-content: space-between; gap: 10px;">
