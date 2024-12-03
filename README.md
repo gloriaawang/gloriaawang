@@ -5,7 +5,7 @@
   <img align="right" alt="Gloria's LinkedIn" width="32px" src="linkedin.png" />
 </a>
 <a href="mailto: glw30@pitt.edu">
-  <img align="right" alt="Gloria's Email" width="32px" src="mail.png" />
+  <img align="right" alt="Gloria's Email" width="32px" src="email.png" />
 </a>
 
 <img src="/wave.gif" height="30px"> Hi, I’m Gloria Wang!
