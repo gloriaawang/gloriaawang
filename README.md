@@ -17,7 +17,7 @@ I'm super passionate about using problem-solving and creativity to explore the i
 
 👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, University of Pittsburgh School of Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA funded by an NSF grant & REU</ins> and worked as a Teaching Assistant @ <ins>University of Pittsburgh Department of Biological Sciences</ins>
 
-🛠 Building tech for scientific research, specializing in bioinformatics with collaborations in economic analysis and consulting
+🛠 Building tech for scientific research, specializing in bioinformatics while integrating economic analysis and consulting
 
 🎨 Actively engaging in science communication @ <ins>Carnegie Science Center (CSC)</ins> and leading student organizations @ <ins>University of Pittsburgh</ins>
 
