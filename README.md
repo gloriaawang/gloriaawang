@@ -8,7 +8,7 @@
   <img align="right" alt="Gloria's Email" width="32px" src="email.png" />
 </a>
 
-<img src="https://raw.githubusercontent.com/gloriaawang/gloriaawang/main/wave.gif" height="30px"> Hi, I’m Gloria Wang!
+<img src="https://raw.githubusercontent.com/gloriaawang/gloriaawang/main/wave.gif" width="30px" height="30px" style="max-width: 30px; display: inline-block; vertical-align: middle;"> Hi, I'm Gloria Wang!
 ===============	
   
 I'm a **Computational Biology** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions in the Biotech Industry starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
