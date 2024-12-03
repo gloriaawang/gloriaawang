@@ -30,13 +30,13 @@ My passion for computational biology combines advanced computer programming and 
 <br />
 <p style="display: flex; justify-content: space-between; gap: 10px;">
   <a href="https://github.com/gloriaawang/Chromatin-Analysis-of-Cancer-vs-Non-Cancer-Cell-Lines" style="width: 33%;">
-    <img align="center" width="32%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Chromatin-Analysis-of-Cancer-vs-Non-Cancer-Cell-Lines&theme=default_repocard"/>
+    <img align="center" width="32%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Chromatin-Analysis-of-Cancer-vs-Non-Cancer-Cell-Lines&theme=default_repocard&show_description=true"/>
   </a>
   <a href="https://github.com/gloriaawang/COVID-19-Lung-Biopsy-RNA-seq-Analysis" style="width: 33%;">
-    <img align="center" width="32%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=COVID-19-Lung-Biopsy-RNA-seq-Analysis&theme=default_repocard"/>
+    <img align="center" width="32%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=COVID-19-Lung-Biopsy-RNA-seq-Analysis&theme=default_repocard&show_description=true"/>
   </a>
   <a href="https://github.com/gloriaawang/Protein-Sequence-Analysis" style="width: 33%;">
-    <img align="center" width="32%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Protein-Sequence-Analysis&theme=default_repocard"/>
+    <img align="center" width="32%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Protein-Sequence-Analysis&theme=default_repocard&show_description=true"/>
   </a>
 </p>
 
