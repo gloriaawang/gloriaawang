@@ -21,7 +21,7 @@ I'm super passionate about using problem-solving and creativity to explore the i
 
 🎨 Actively engaging in science communication @ <ins>Carnegie Science Center (CSC)</ins> and leading student organizations @ <ins>University of Pittsburgh</ins>
 
-🚀 Pursuing biotech opportunities where I can leverage my analytical skillset as a data-driven software developer or consultant, combining computational expertise with biological & business insights to drive innovation in cross-functional teams
+🚀 Pursuing biotech opportunities where I can leverage my analytical skillset as a data-driven analyst or consultant, combining computational expertise with biological & business insights to drive innovation in cross-functional teams
 
 ---
 
