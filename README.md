@@ -13,9 +13,9 @@
   
 I'm a **Computational Biology** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions in the Biotech Industry starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
 
-I'm super passionate about using problem-solving and creativity to explore the intersection between human health, economics, and technology. Currently, I'm interested in health accessibility, data analytics/visualization, education, and community engagement.
+I'm super passionate about using problem-solving and creativity to explore the intersection between human health, economics, and technology. Currently, I'm broadly interested in health accessibility, data analytics/visualization, education, and community engagement.
 
-👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, University of Pittsburgh School of Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA funded by an NSF grant & REU</ins> and worked as a Teaching Assistant @ <ins>University of Pittsburgh Department of Biological Sciences</ins>
+👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, University of Pittsburgh School of Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA</ins> funded by an NSF grant & REU, and worked as a Teaching Assistant @ <ins>University of Pittsburgh Department of Biological Sciences</ins>
 
 🛠 Building tech for scientific research, specializing in bioinformatics while integrating economic analysis and consulting
 
