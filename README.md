@@ -13,13 +13,13 @@
   
 I'm a **Computational Biology** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions in the Biotech Industry starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
 
-I'm super passionate about using problem-solving and creativity to explore the intersection between human health and technology. Currently, I'm interested in health accessibility, data analytics/visualization, education, and community engagement.
+I'm super passionate about using problem-solving and creativity to explore the intersection between human health, economics, and technology. Currently, I'm interested in health accessibility, data analytics/visualization, education, and community engagement.
 
 👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, University of Pittsburgh School of Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA funded by an NSF grant & REU</ins> and worked as a Teaching Assistant @ <ins>University of Pittsburgh Department of Biological Sciences</ins>
 
-🛠 Building tech for scientific research, specializing in RNA sequencing analysis, bioinformatics, and computational biology
+🛠 Building tech for scientific research, specializing in bioinformatics with collaborations in economic analysis and consulting
 
-🎨 Actively engaging in science communication @ <ins>Carnegie Science Center</ins> and leading student organizations @ <ins>University of Pittsburgh</ins>
+🎨 Actively engaging in science communication @ <ins>Carnegie Science Center (CSC)</ins> and leading student organizations @ <ins>University of Pittsburgh</ins>
 
 🧑🏻‍💻 **Bioinformatics & Computational Skills**
 
@@ -94,3 +94,9 @@ Specialized in computational techniques for genomic research and machine learnin
 - Presented @ Pitt Undergraduate Research and Creative Expression Fair
 - Mural showcased @ 'Envisioning A Just Pittsburgh' Call for Diverse Art
 - Honors Outside the Classroom Curriculum Society
+
+## 📊 Github Stats
+
+<a href="https://github.com/gloriaawang/gloriaawang">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gloriaawang&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=jupyter%20notebook,cmake,html,css,makefile,shell,procfile" />
+</a>
