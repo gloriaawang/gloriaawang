@@ -2,7 +2,7 @@
 
 </a>
 <a href="https://www.linkedin.com/in/gloria-huawei-wang/">
-  <img align="right" alt="Gloria's LinkedIn" width="32px" src="https://raw.githubusercontent.com/gloriaawang/gloriaawangwang/main/linkedin.svg" />
+  <img align="right" alt="Gloria's LinkedIn" width="32px" src="https://raw.githubusercontent.com/gloriaawang/gloriaawangwang/main/linkedin.png" />
 </a>
 <a href="mailto: glw30@pitt.edu">
   <img align="right" alt="Gloria's Email" width="32px" src="https://raw.githubusercontent.com/gloriaawang/gloriaawang/main/mail.png" />
