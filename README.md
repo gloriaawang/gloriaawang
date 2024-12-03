@@ -15,7 +15,7 @@ I'm a **Computational Biology** student at the **University of Pittsburgh Freder
 
 I'm super passionate about using problem-solving and creativity to explore the intersection between human health and technology. Currently, I'm interested in health accessibility, data analytics/visualization, education, and community engagement.
 
-👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, University of Pittsburgh School of Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA funded by an NSF grant & competitive REU</ins> and worked as a Teaching Assistant @ <ins>University of Pittsburgh Department of Biological Sciences</ins>
+👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, University of Pittsburgh School of Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA funded by an NSF grant & REU</ins> and worked as a Teaching Assistant @ <ins>University of Pittsburgh Department of Biological Sciences</ins>
 
 🛠 Building tech for scientific research, specializing in RNA sequencing analysis, bioinformatics, and computational biology
 
@@ -42,6 +42,10 @@ My passion for computational biology combines advanced computer programming and 
 🧱 Research & Science Communication
 
 As a computational biology researcher and science communicator, I work to advance research while making science accessible to the public
+
+@ CSC, I:
+- Present engaging scientific demonstrations to visitors aged 3-12, bringing complex concepts to life through interactive experiments
+- Practice over 100 hands-on activities across eight unique exhibits, helping visitors & families of all ages discover and explore scientific principles 
 
 <details>
   <summary> <i> &nbsp;See my most recent research updates 🌐 </i> </summary>
