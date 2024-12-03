@@ -54,7 +54,7 @@ As a computational biology researcher and science communicator, I work to advanc
   <br />
 <p>
   <a href="https://github.com/gloriaawang/Peri-implantitis-GWAS">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Peri-implantitis-GWAS&theme=default_repocard"/>
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Peri-implantitis-GWAS&theme=default_repocard&show_description=true"/>
   </a>
 </p>
 
