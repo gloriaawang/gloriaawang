@@ -25,7 +25,7 @@ I'm super passionate about using problem-solving and creativity to explore the i
 
 ---
 
-🧑🏻‍💻 Bioinformatics & Computational Skills
+🧑🏻‍💻 **Bioinformatics & Computational Skills**
 
 My background in computational biology combines advanced computer programming and biological research, where I leverage advanced tools and techniques for data analysis and visualization
 <details> <summary><i> &nbsp;Take a look at some of my bioinformatics experiences 👀</i> </summary> <br />
@@ -41,9 +41,9 @@ My background in computational biology combines advanced computer programming an
     <img align="center" width="32%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Protein-Sequence-Analysis&theme=default_repocard&show_description=true"/>
   </a>
 </p>
-
 </details>
-🧱 Research & Science Communication
+
+🧱 **Research & Science Communication**
 
 As a computational biology researcher and science communicator, I work to advance research while making science accessible to the public
 
@@ -59,10 +59,9 @@ As a computational biology researcher and science communicator, I work to advanc
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gloriaawang&repo=Peri-implantitis-GWAS&theme=default_repocard&show_description=true"/>
   </a>
 </p>
-
-
 </details>
-🤖 Technical Skills & Tools
+
+**🤖 Technical Skills & Tools**
 
 Proficient in multiple programming languages and bioinformatics tools for comprehensive data analysis
 
@@ -80,7 +79,8 @@ Specialized in computational techniques for genomic research and machine learnin
   
   - My Favorite (& Key) Courses: Computational Genomics, Data Structures & Algorithms, Discrete Structures, Data Science, Economic Data Analysis, Health Economics, Service-Learning
 </details>
-📊 Leadership & Involvement
+
+📊 **Leadership & Involvement**
 
 **Events Coordinator @ Chinese American Student Association**
 - Administering activities focused on Chinese-American advocacy and cultural understanding
