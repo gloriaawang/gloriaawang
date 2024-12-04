@@ -27,8 +27,8 @@ I'm super passionate about using problem-solving and creativity to explore the i
 
 🧑🏻‍💻 **Bioinformatics & Computational Skills**
 
-My background in computational biology combines advanced computer programming and biological research, where I leverage advanced tools and techniques for data analysis and visualization
-<details> <summary><i> &nbsp;Take a look at some of my bioinformatics experiences 👀</i> </summary> <br />
+My background in computational biology and genomics combines advanced computer programming and biological research, where I leverage advanced tools and techniques for data analysis and visualization
+<details> <summary><i> &nbsp;Take a look at some of my bioinformatics projects 👀</i> </summary> <br />
 <br />
 <p style="display: flex; justify-content: space-between; gap: 10px;">
   <a href="https://github.com/gloriaawang/Chromatin-Analysis-of-Cancer-vs-Non-Cancer-Cell-Lines" style="width: 33%;">
