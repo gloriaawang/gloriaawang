@@ -8,12 +8,12 @@
   <img align="right" alt="Gloria's Email" width="32px" src="email.png" />
 </a>
 
-<img src="https://raw.githubusercontent.com/gloriaawang/gloriaawang/main/wave.gif" width="30px" height="30px" style="max-width: 30px; display: inline-block; vertical-align: middle;"> Hi, I'm Gloria Wang!
+Hi, I'm Gloria Wang!
 ===============	
   
 I'm a **Computational Biology** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions in the Biotech Industry starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
 
-I'm super passionate about using problem-solving and creativity to explore the intersection between human health, economics, and technology. Currently, I'm broadly interested in health accessibility, data analytics/visualization, education, and community engagement.
+I'm super passionate about using problem-solving and creativity to explore the intersection between human health, economics, and technology. Currently, I'm broadly interested in **health accessibility, data analytics/visualization, education, and community engagement**.
 
 👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, Pitt Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA</ins> funded by an NSF grant & REU, and worked as a Teaching Assistant @ <ins> Pitt's Department of Biological Sciences</ins>
 
@@ -52,7 +52,7 @@ As a computational biology researcher and science communicator, I work to advanc
 - Practice over 100 hands-on activities across eight unique exhibits, helping visitors & families of all ages discover and explore scientific principles 
 
 <details>
-  <summary> <i> &nbsp;See my most recent research updates 🌐 </i> </summary>
+  <summary> <i> &nbsp;See my recent research updates 🌐 </i> </summary>
   <br />
 <p>
   <a href="https://github.com/gloriaawang/Peri-implantitis-GWAS">
@@ -69,29 +69,17 @@ As a computational biology researcher and science communicator, I work to advanc
 <details> <summary> <i> &nbsp;Search through my technical skills 👾</i> </summary> <br />
 
   - Languages: Java, Python, R, SQL, Unix (Linux)
-
-  - Bioinformatics Tools: BLAST, FASTQ, GeneMark, HHPred, Illumina, Lambda
-
-  - Data Science: Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, Statsmodels
-
+  - Bioinformatics Tools: BLAST, FASTQ, GeneMark, HHPred, Illumina, Lambda, bcftools, vcftools, bedtools, samtools, PLINK, HOMER
+  - Data Science: Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, Statsmodels, STATA
   - Development: GitHub, PyCharm, Visual Studio
-  
   - My Favorite (& Key) Courses: Computational Genomics, Data Structures & Algorithms, Discrete Structures, Data Science, Economic Data Analysis, Health Economics, Service-Learning
 </details>
 
 📊 **Leadership & Involvement**
 
-**Events Coordinator @ Chinese American Student Association**
-- Administering activities focused on Chinese-American advocacy and cultural understanding
-- Managing technical services, event itineraries, and an Events Committee
-
-**Education Chair @ Delta Epsilon Mu**
-- Scheduling guest speaker talks, professional development workshops, and DEI initiatives
-- Mentoring underclassmen on networking skills and event planning
-
-**Ambassador @ Frederick Honor's College**
-- Representing the Honors College at university open houses
-- Guiding prospective students through programs and opportunities
+- Events Coordinator @ Chinese American Student Association
+- Education Chair @ Delta Epsilon Mu
+- Ambassador @ Frederick Honor's College
 
 🎓 **Academic Achievements**
 
