@@ -8,7 +8,7 @@
   <img align="right" alt="Gloria's Email" width="32px" src="email.png" />
 </a>
 
-Hi, I'm Gloria Wang!
+Hi, I'm Gloria!
 ===============	
   
 I'm a **Computational Biology** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions in the Biotech Industry starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
@@ -74,6 +74,8 @@ As a computational biology researcher and science communicator, I work to advanc
   - Development: GitHub, PyCharm, Visual Studio
   - My Favorite (& Key) Courses: Computational Genomics, Data Structures & Algorithms, Discrete Structures, Data Science, Economic Data Analysis, Health Economics, Service-Learning
 </details>
+
+---
 
 📊 **Leadership & Involvement**
 
