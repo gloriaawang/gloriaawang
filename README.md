@@ -11,17 +11,17 @@
 Hi, I'm Gloria!
 ===============	
   
-I'm a **Computational Biology & Economics** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Positions in the Biotech Industry starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (glw30@pitt.edu)
+I'm a **Computational Biology & Economics** student at the **University of Pittsburgh Frederick Honors College.** I'm seeking **Full-Time Analyst positions starting Summer 2025**, feel free to reach out on LinkedIn or send me an email! (gw4164@gmail.com)
 
 I'm super passionate about using problem-solving and creativity to explore the intersection between human health, economics, and technology. Currently, I'm broadly interested in **health accessibility, data analytics/visualization, education, and community engagement**.
 
-👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, Pitt Dental Medicine</ins>, previously researched @ <ins>Pirih Lab, UCLA</ins> funded by an NSF grant & REU, and worked as a Teaching Assistant @ <ins> Pitt's Department of Biological Sciences</ins>
+👔 Currently working as an Undergraduate Researcher @ <ins>Clark Lab, Pitt Dental Medicine</ins> & in Community Outreach @ <ins>BikePGH</ins>, previously researched @ <ins>Pirih Lab, UCLA</ins> funded by an NSF grant & REU, and worked as a Teaching Assistant @ <ins> Pitt's Department of Biological Sciences</ins>
 
 🛠 Building tech for scientific research, specializing in bioinformatics while integrating economic analysis and consulting
 
 🎨 Actively engaging in science communication @ <ins>Carnegie Science Center (CSC)</ins> and leading student organizations @ <ins>University of Pittsburgh</ins>
 
-🚀 Pursuing biotech opportunities where I can leverage my analytical skillset as a data-driven analyst or consultant, combining computational expertise with biological & business insights to drive innovation in cross-functional teams
+🚀 Pursuing industry opportunities where I can leverage my analytical skillset as a data-driven analyst or consultant, combining computational expertise with biological & business insights to drive innovation in cross-functional teams
 
 ---
 
