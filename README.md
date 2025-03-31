@@ -86,8 +86,9 @@ As a computational biology researcher and science communicator, I work to advanc
 🎓 **Academic Achievements**
 
 - B.S. in Computational Biology, University of Pittsburgh (Expected Apr '25)
-- GPA: 3.79, Dean's List each semester
+- GPA: 3.8, Dean's List each semester
 - Completed Minors in Economics & Chemistry, along with an Honors Global Health Certificate
+- Phi Beta Kappa Honor Society member, sponsored by Frederick Honors College
 - "Excellent Researcher" Award @ UCLA Bruins-in-Genomics Program
 - Presented @ Pitt Undergraduate Research and Creative Expression Fair
 - Mural showcased @ 'Envisioning A Just Pittsburgh' Call for Diverse Art
