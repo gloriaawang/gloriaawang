@@ -88,7 +88,8 @@ As a computational biology researcher and science communicator, I work to advanc
 - B.S. in Computational Biology, University of Pittsburgh (Expected Apr '25)
 - GPA: 3.8, Dean's List each semester
 - Completed Minors in Economics & Chemistry, along with an Honors Global Health Certificate
-- Phi Beta Kappa Honor Society member, sponsored by Frederick Honors College
+- The Phi Beta Kappa Society, membership sponsored by Frederick Honors College
+- Fulbright Denmark 2025 Semifinalist (program funds frozen for the fiscal year)
 - "Excellent Researcher" Award @ UCLA Bruins-in-Genomics Program
 - Presented @ Pitt Undergraduate Research and Creative Expression Fair
 - Mural showcased @ 'Envisioning A Just Pittsburgh' Call for Diverse Art
